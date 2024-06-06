@@ -30,6 +30,10 @@ El dataset está organizado en las siguientes carpetas:
   - Contiene imágenes nombradas del 601 al 700.
   - [Enlace a la carpeta](https://github.com/adrianruiiz/Dataset_automoviles/tree/main/Ford%20Ranger%20SuperCab%202011)
 
+- **Jetta 2010**
+  - Contiene imágenes nombradas del 101 al 200.
+  - [Enlace a la carpeta](https://github.com/adrianruiiz/Dataset_automoviles/tree/main/Jetta%202010)
+
 Cada imagen en las carpetas mencionadas sigue la convención de nomenclatura especificada con extensión jpg.
 
 ## Uso del Dataset
